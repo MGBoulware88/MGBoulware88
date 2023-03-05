@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/GBoulware"><img src="https://https://github.com/MGBoulware88/MGBoulware88/blob/master/devcard.svg" width="400" alt="Gray Boulware's Dev Card"/></a>
+<a href="https://app.daily.dev/GBoulware"><img src="https://github.com/MGBoulware88/MGBoulware88/blob/master/devcard.svg" width="400" alt="Gray Boulware's Dev Card"/></a>
 
 <!--
 **MGBoulware88/MGBoulware88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
