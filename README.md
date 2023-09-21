@@ -1,9 +1,11 @@
 <h1>Hello! 🤠</h1>
 
 <h3>Welcome to my profile.</h3>
-<p>My name is Gray Boulware and I am a former Product Manager transitioning into web development. I am currently attending the Coding Dojo Full Stack Software Developer Bootcamp and plan to graduate at the end of May 2023. I absolutely love working in software, but recently decided I wanted to be on the engineer side of the team instead of the product side.</p>
+<p>My name is Gray Boulware and I am a former Product Manager transitioning into web development. I am currently finishing my BS in Computer Science at University of the People and graduated from the Coding Dojo Full Stack Software Developer Bootcamp in May of 2023. I absolutely love working in software, but recently decided I wanted to be on the engineer side of the team instead of the product side.</p>
 <br>
 <p>My goal is it use my new software engineering skills to contribute to an established or startup company's web dev team as a full stack engineer. I have spent most of my product career in the healthcare industry, but also have experience in the real estate industry.</p>
+<br>
+<p>I love startups and startup culture. I am a huge Lean Startup advocate and a stickler for details and best practices.</p>
 
 <a href="https://app.daily.dev/GBoulware"><img src="https://github.com/MGBoulware88/MGBoulware88/blob/main/devcard.svg" width="400" alt="Gray Boulware's Dev Card"/></a>
 
